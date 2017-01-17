@@ -35,4 +35,4 @@ drawContainer(200, 50, 17);
 
 Demo
 
-![alt tag](https://goo.gl/ikveME)
+![alt tag](https://raw.githubusercontent.com/mtalal16/js-generate-random-color-box/master/demo.png)
